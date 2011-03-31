@@ -1,0 +1,2 @@
+class PranksController < ApplicationController
+end
